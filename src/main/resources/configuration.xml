@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configurations>
+	<configuration name="IOT-TEMP">
+		<minPortRange>8000</minPortRange>
+		<maxPortRange>8010</maxPortRange>
+	</configuration>
+	<configuration name="IOT-CO2">
+		<minPortRange>8010</minPortRange>
+		<maxPortRange>8020</maxPortRange>
+	</configuration>
+	<configuration name="MS-FOG-TEMP">
+		<minPortRange>8020</minPortRange>
+		<maxPortRange>8030</maxPortRange>
+	</configuration>
+	<configuration name="MS-FOG-CO2">
+		<minPortRange>8030</minPortRange>
+		<maxPortRange>8040</maxPortRange>
+	</configuration>
+	<!--<configuration name="MS-ML">
+		<minPortRange>8030</minPortRange>
+		<maxPortRange>8040</maxPortRange>
+	</configuration>
+	<configuration name="MS-CLNT">
+		<minPortRange>8040</minPortRange>
+		<maxPortRange>8050</maxPortRange>
+	</configuration> -->
+</configurations>
